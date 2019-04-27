@@ -10,7 +10,7 @@ using namespace std;		//standard libary namespace
 
 void welcome() {		//helper function welcome
 
-
+	 
 	cout << "Wellcome The Main Menu" << endl;		//display message
 	cout << "1: Agent Training " << endl;							//display message
 	cout << "2: Banking Simulator" << endl;							//display message

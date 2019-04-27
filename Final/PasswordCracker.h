@@ -5,7 +5,7 @@
 								Program start
 */////////////////////////////////////////////////////////////////////////////////////////
 
-#include <iostream> //in out stream
+#include <iostream> //in out stream 
 #include <string>	//strings
 
 using namespace std;		//using standard namespace

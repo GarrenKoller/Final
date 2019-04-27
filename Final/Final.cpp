@@ -4,7 +4,7 @@
 
 #include <iostream>		//in and out stream
 #include <string>		//string
-#include "UX.h"
+#include "UX.h" 
 #include "TerroristTrouble.h"
 #include "Jumanji.h"
 #include "HideSeek.h"

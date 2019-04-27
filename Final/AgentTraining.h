@@ -2,7 +2,7 @@
 								Program start
 */////////////////////////////////////////////////////////////////////////////////////////
 
-
+ 
 #include <iostream>		//in and out stream
 #include <string>		//strings
 #include <stdlib.h>		//standard libary

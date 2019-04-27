@@ -6,7 +6,7 @@
 
 ///////////////////////////*include*////////////////////////////////////////
 //text
-#include <string>
+#include <string> 
 //in and out stream to console
 #include <iostream>
 //C Standard General Utilities Library
